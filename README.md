@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Onrepaint
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning how to use github
+- 🌱 road to software engineer - php 
 
 <!---
 Onrepaint/Onrepaint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
